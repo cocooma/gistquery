@@ -1,0 +1,7 @@
+/build
+/dist
+/.idea
+*.pyc
+*.egg-info
+/.pytest_cache
+/gistquery.egg-info
